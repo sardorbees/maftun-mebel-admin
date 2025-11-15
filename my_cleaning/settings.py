@@ -518,22 +518,22 @@ STATICFILES_DIRS = [
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 JAZZMIN_SETTINGS = {
-    "site_title": "Gulchekhra Collection",
-    "site_header": "Gulchekhra Collection",
-    "site_brand": "Gulchekhra Collection",
-    "site_icon": "../media/assets/gulchehra.png",
-    "site_logo": "../media/assets/gulchehra.png",
+    "site_title": "Maftun Mebel",
+    "site_header": "Maftun Mebel",
+    "site_brand": "Maftun Mebel",
+    "site_icon": "../media/assets/maftun-mebel.jpg",
+    "site_logo": "../media/assets/maftun-mebel.png",
     "language_chooser": True,
     "changeform_format": "horizontal_tabs",
     "changeform_format_overrides": {"auth.user": "collapsible", "auth.group": "vertical_tabs"},
-    "welcome_sign": "Xush Kelibsiz Gulchekhra Collection",
-    "copyright": "Gulchekhra Collection-Admin",
-    "user_avatar": "../media/assets/img/1111.jpg",
+    "welcome_sign": "Xush Kelibsiz Maftun Mebel",
+    "copyright": "Maftun Mebel-Admin",
+    "user_avatar": "../media/assets/maftun-mebel.jpg",
     "dashboard": [
         {"type": "link", "title": "Documentation", "url": "http://127.0.0.1:8000/swagger/"},
     ],
     "topmenu_links": [
-        {"name": "Gulchekhra-Collection.uz", "url": "https://django-admin-pro.onrender.com/admin/solnechnye_paneli/", "permissions": ["auth.view_user"]},
+        {"name": "Gulchekhra-Collection.uz", "url": "https://maftun-mebel.uz", "permissions": ["auth.view_user"]},
         {"name": "Telegram", "url": "https://t.me/gulchekhracollection", "permissions": ["auth.view_user"]},
         {"name": "Instagram", "url": "https://www.instagram.com/gulschexra?igsh=MmNlcGQ5NGs4cjMy", "permissions": ["auth.view_user"]},
         {"model": "auth.User"},
