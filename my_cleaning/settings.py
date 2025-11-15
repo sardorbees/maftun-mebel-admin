@@ -475,8 +475,8 @@ SWAGGER_SETTINGS = {
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
-    "https://gulchekhras-admin.onrender.com",
-    "https://solor-energy.vercel.app",
+    "https://maftun-mebel-admin.onrender.com",
+    "https://https://maftun-mebel.vercel.app",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
@@ -486,8 +486,8 @@ CSRF_COOKIE_SAMESITE = "Lax"
 CSRF_COOKIE_SECURE = True
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://solor-energy.vercel.app",
-    "https://gulchekhras-admin.onrender.com",
+    "https://https://maftun-mebel.vercel.app",
+    "https://maftun-mebel-admin.onrender.com",
 ]
 
 CSRF_COOKIE_HTTPONLY = False
