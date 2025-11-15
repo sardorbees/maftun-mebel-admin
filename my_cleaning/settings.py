@@ -533,9 +533,9 @@ JAZZMIN_SETTINGS = {
         {"type": "link", "title": "Documentation", "url": "http://127.0.0.1:8000/swagger/"},
     ],
     "topmenu_links": [
-        {"name": "Gulchekhra-Collection.uz", "url": "https://maftun-mebel.uz", "permissions": ["auth.view_user"]},
-        {"name": "Telegram", "url": "https://t.me/gulchekhracollection", "permissions": ["auth.view_user"]},
-        {"name": "Instagram", "url": "https://www.instagram.com/gulschexra?igsh=MmNlcGQ5NGs4cjMy", "permissions": ["auth.view_user"]},
+        {"name": "Maftun-Mebel.uz", "url": "https://maftun-mebel.uz", "permissions": ["auth.view_user"]},
+        {"name": "Telegram", "url": "https://t.me/Mebelshitsa", "permissions": ["auth.view_user"]},
+        {"name": "Instagram", "url": "https://www.instagram.com/ashirmatabdukodirov?utm_source=qr&igsh=N2JodndrMmpoMWd3", "permissions": ["auth.view_user"]},
         {"model": "auth.User"},
         {"app": "books"},
     ],
